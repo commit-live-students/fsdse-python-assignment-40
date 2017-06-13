@@ -1,1 +1,7 @@
-# fsdse-python-assignment-40
+# Write a function to return first n lines of a file.
+
+Define a function that takes 2 parameters:
+* a string that contains a filepath
+* a natural number 'n' not greater than the total number of lines
+
+The function should return a _list_ of first n number of lines.
